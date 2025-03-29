@@ -1,0 +1,111 @@
+﻿  Arbore.c
+  main.c
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(4,4): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,4): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,21): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,21): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,33): error C2059: syntax error: 'type'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,44): error C2059: syntax error: ')'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(8,19): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(8,19): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(8,29): error C2059: syntax error: ')'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(10,26): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(10,26): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(10,36): error C2059: syntax error: ')'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(12,19): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(12,19): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(12,31): error C2059: syntax error: 'type'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(12,55): error C2059: syntax error: ')'
+  (compiling source file 'Arbore.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.c(11,6): error C2371: 'creareNod': redefinition; different basic types
+      C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(4,6):
+      see declaration of 'creareNod'
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.c(26,7): warning C4133: 'initializing': incompatible types - from 'int *' to 'Nod *'
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.c(61,22): warning C4133: '=': incompatible types - from 'int *' to 'Nod *'
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.c(67,23): warning C4133: '=': incompatible types - from 'int *' to 'Nod *'
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(4,4): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,4): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,21): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,21): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,33): error C2059: syntax error: 'type'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(6,44): error C2059: syntax error: ')'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(8,19): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(8,19): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(8,29): error C2059: syntax error: ')'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(10,26): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(10,26): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(10,36): error C2059: syntax error: ')'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(12,19): error C2143: syntax error: missing ')' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(12,19): error C2143: syntax error: missing '{' before '*'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(12,31): error C2059: syntax error: 'type'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\Arbore.h(12,55): error C2059: syntax error: ')'
+  (compiling source file 'main.c')
+  
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\main.c(14,2): error C2065: 'Nod': undeclared identifier
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\main.c(14,5): error C2297: '*': not valid as right operand has type 'int *'
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\main.c(20,4): warning C4013: 'adaugaNod' undefined; assuming extern returning int
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\main.c(23,2): warning C4013: 'preordine' undefined; assuming extern returning int
+C:\Users\ps5mi\source\repos\Transformare arbore generalizat-binar\Transformare arbore generalizat-binar\main.c(30,2): warning C4013: 'eliberareMemorie' undefined; assuming extern returning int
+  Generating Code...
