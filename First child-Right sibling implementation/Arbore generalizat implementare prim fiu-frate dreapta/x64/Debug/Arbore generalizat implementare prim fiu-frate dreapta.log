@@ -1,7 +1,0 @@
-﻿  main.c
-C:\Users\ps5mi\source\repos\Arbore generalizat implementare prim fiu-frate dreapta\Arbore generalizat implementare prim fiu-frate dreapta\main.c(7,10): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
-C:\Users\ps5mi\source\repos\Arbore generalizat implementare prim fiu-frate dreapta\Arbore generalizat implementare prim fiu-frate dreapta\main.c(7,10): warning C4024: 'perror': different types for formal and actual parameter 1
-C:\Users\ps5mi\source\repos\Arbore generalizat implementare prim fiu-frate dreapta\Arbore generalizat implementare prim fiu-frate dreapta\main.c(21,16): warning C4133: 'function': incompatible types - from 'char [15]' to 'FILE *const '
-C:\Users\ps5mi\source\repos\Arbore generalizat implementare prim fiu-frate dreapta\Arbore generalizat implementare prim fiu-frate dreapta\main.c(21,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\ps5mi\source\repos\Arbore generalizat implementare prim fiu-frate dreapta\Arbore generalizat implementare prim fiu-frate dreapta\main.c(17,1): warning C4700: uninitialized local variable 'arbore' used
-  Arbore generalizat implementare prim fiu-frate dreapta.vcxproj -> C:\Users\ps5mi\source\repos\Arbore generalizat implementare prim fiu-frate dreapta\x64\Debug\Arbore generalizat implementare prim fiu-frate dreapta.exe
